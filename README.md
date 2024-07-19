@@ -9,7 +9,9 @@ Online Payments
 Booking Management
 Recent Hotels on Home Page
 Getting Started
-Prerequisites
+
+
+Prerequisites:
 Node.js
 Yarn (or npm)
 MongoDB (or any other database you prefer)
